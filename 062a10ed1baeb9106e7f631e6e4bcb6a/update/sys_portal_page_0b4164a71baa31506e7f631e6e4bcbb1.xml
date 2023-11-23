@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-11-22 14:43:39">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>heena.patidar</sys_created_by>
+        <sys_created_on>2023-11-22 14:17:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0b4164a71baa31506e7f631e6e4bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Incident managment1 - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Release 2.0" source="062a10ed1baeb9106e7f631e6e4bcb6a">062a10ed1baeb9106e7f631e6e4bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Release 2.0">062a10ed1baeb9106e7f631e6e4bcb6a</sys_scope>
+        <sys_update_name>sys_portal_page_0b4164a71baa31506e7f631e6e4bcbb1</sys_update_name>
+        <sys_updated_by>heena.patidar</sys_updated_by>
+        <sys_updated_on>2023-11-22 14:17:43</sys_updated_on>
+        <title>PA Incident managment1 - New Tab</title>
+        <user/>
+        <view>pa_incident_managment1_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Incident managment1 - New Tab">0b4164a71baa31506e7f631e6e4bcbb1</page>
+                <summary>Incident count</summary>
+                <sys_created_by>heena.patidar</sys_created_by>
+                <sys_created_on>2023-11-22 14:18:15</sys_created_on>
+                <sys_id>0b61a4671baa31506e7f631e6e4bcb20</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>heena.patidar</sys_updated_by>
+                <sys_updated_on>2023-11-22 14:19:30</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2023-11-22 06:18:15">0b61a4671baa31506e7f631e6e4bcb20</portal_section>
+                        <sys_created_by>heena.patidar</sys_created_by>
+                        <sys_created_on>2023-11-22 14:18:15</sys_created_on>
+                        <sys_id>0b61e4a71baa31506e7f631e6e4bcb7a</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>heena.patidar</sys_updated_by>
+                        <sys_updated_on>2023-11-22 14:19:30</sys_updated_on>
+                        <value>Incident count</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2023-11-22 06:18:15">0b61a4671baa31506e7f631e6e4bcb20</portal_section>
+                        <sys_created_by>heena.patidar</sys_created_by>
+                        <sys_created_on>2023-11-22 14:18:15</sys_created_on>
+                        <sys_id>0f61a4671baa31506e7f631e6e4bcb21</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>heena.patidar</sys_updated_by>
+                        <sys_updated_on>2023-11-22 14:18:15</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2023-11-22 06:18:15">0b61a4671baa31506e7f631e6e4bcb20</portal_section>
+                        <sys_created_by>heena.patidar</sys_created_by>
+                        <sys_created_on>2023-11-22 14:18:15</sys_created_on>
+                        <sys_id>4761e4a71baa31506e7f631e6e4bcb7a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>heena.patidar</sys_updated_by>
+                        <sys_updated_on>2023-11-22 14:18:15</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2023-11-22 06:18:15">0b61a4671baa31506e7f631e6e4bcb20</portal_section>
+                        <sys_created_by>heena.patidar</sys_created_by>
+                        <sys_created_on>2023-11-22 14:18:15</sys_created_on>
+                        <sys_id>8361e4a71baa31506e7f631e6e4bcb7a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>heena.patidar</sys_updated_by>
+                        <sys_updated_on>2023-11-22 14:18:15</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2023-11-22 06:18:15">0b61a4671baa31506e7f631e6e4bcb20</portal_section>
+                        <sys_created_by>heena.patidar</sys_created_by>
+                        <sys_created_on>2023-11-22 14:18:15</sys_created_on>
+                        <sys_id>cf61a4671baa31506e7f631e6e4bcb20</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>heena.patidar</sys_updated_by>
+                        <sys_updated_on>2023-11-22 14:19:30</sys_updated_on>
+                        <value>11b1a8a71baa31506e7f631e6e4bcb35</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Incident managment1 - New Tab">0b4164a71baa31506e7f631e6e4bcbb1</legacy_page>
+        <name>PA Incident managment1 - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>heena.patidar</sys_created_by>
+        <sys_created_on>2023-11-22 14:17:43</sys_created_on>
+        <sys_id>cb4164a71baa31506e7f631e6e4bcbb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Incident managment1 - New Tab</sys_name>
+        <sys_package display_value="Release 2.0" source="062a10ed1baeb9106e7f631e6e4bcb6a">062a10ed1baeb9106e7f631e6e4bcb6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Release 2.0">062a10ed1baeb9106e7f631e6e4bcb6a</sys_scope>
+        <sys_update_name>sys_grid_canvas_cb4164a71baa31506e7f631e6e4bcbb2</sys_update_name>
+        <sys_updated_by>heena.patidar</sys_updated_by>
+        <sys_updated_on>2023-11-22 14:17:43</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>
